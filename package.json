@@ -33,7 +33,7 @@
     "github": "^0.2.4",
     "home-config": "^0.1.0",
     "lodash": "^4.0.0",
-    "noble": "^1.3.0",
+    "@abandonware/noble": "^1.9.2-24",
     "play-sound": "0.0.7",
     "request": "^2.67.0",
     "sphero": "^0.7.0",
